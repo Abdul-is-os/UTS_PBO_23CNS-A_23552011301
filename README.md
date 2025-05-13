@@ -20,4 +20,5 @@ Polymorphism: Terlihat melalui method overriding (toString()) dan method overloa
 Abstraction: Diterapkan melalui kelas abstrak tenagamedis. Penggunaan metode abstrak bisa lebih memperjelas ini jika ada perilaku yang wajib diimplementasikan oleh semua turunannya.
 
 Demo Proyek
-
+https://drive.google.com/file/d/1PV6M5EiiobRIWOEzFqLKDv4NGU0B5RuU/view?usp=drive_link
+https://github.com/Abdul-is-os/UTS_PBO_23CNS-A_23552011301
