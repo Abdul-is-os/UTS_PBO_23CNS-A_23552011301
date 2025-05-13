@@ -14,13 +14,10 @@ Judul Studi Kasus
 kasir apotek
 
 Penjelasan 4 Pilar OOP dalam Studi Kasus
-1. Inheritance
-
-2. Encapsulation
-
-3. Polymorphism
-
-4. Abstract
+1. Inheritance: tenagamedis, dokter, dan apoteker.
+2. Encapsulation: Diterapkan dengan baik di semua kelas model menggunakan atribut private dan metode public getter/setter.
+Polymorphism: Terlihat melalui method overriding (toString()) dan method overloading (konstruktor). Potensi polimorfisme dinamis ada karena struktur pewarisan.
+Abstraction: Diterapkan melalui kelas abstrak tenagamedis. Penggunaan metode abstrak bisa lebih memperjelas ini jika ada perilaku yang wajib diimplementasikan oleh semua turunannya.
 
 Demo Proyek
 
